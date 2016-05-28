@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LibraryManagement</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_add_book">AddBookActivity</string>
+    <string name="title_activity_book_detail">BookDetailActivity</string>
+    <string name="title_activity_books_list">BooksListActivity</string>
+    <string name="title_activity_category">CategoryActivity</string>
+    <string name="title_activity_issue_book">IssueBookActivity</string>
+    <string name="title_activity_non_issued_books">NonIssuedBooksActivity</string>
+    <string name="title_activity_login">Library Management</string>
+    <string name="title_activity_changepassword">ChangepasswordActivity</string>
+    <string name="title_activity_returnbook">Returnbook</string>
+    <string name="title_activity_issuedbook">Issuedbook</string>
+
+</resources>
